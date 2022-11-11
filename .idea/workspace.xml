@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a00cd221-6937-4db1-97f2-5197b4e1a71e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_8_0_31.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TPdatabase.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="a00cd221-6937-4db1-97f2-5197b4e1a71e" name="Changes" comment="Added the selection of the operation on the database" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,8 +76,16 @@
       <option name="presentableId" value="Default" />
       <updated>1667983930474</updated>
       <workItem from="1667983932877" duration="11200000" />
-      <workItem from="1668164403131" duration="6117000" />
+      <workItem from="1668164403131" duration="6511000" />
     </task>
+    <task id="LOCAL-00001" summary="Added the selection of the operation on the database">
+      <created>1668170875188</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668170875188</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,5 +101,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added the selection of the operation on the database" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the selection of the operation on the database" />
   </component>
 </project>
