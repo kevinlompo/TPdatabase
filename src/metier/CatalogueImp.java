@@ -11,7 +11,7 @@ public class CatalogueImp implements ICatalogue{
         try {
             Connection conn = getConnection();
 
-            PreparedStatement ps = conn.prepareStatement("select  * from clients where NOM like ?");
+            PreparedStatement ps = conn.prepareStatement("select  * from clients where NOM or PRENOM like ?");
             ps.setString(1, "%" + kw + "%");
 
             ResultSet rs = ps.executeQuery();

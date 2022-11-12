@@ -39,9 +39,8 @@ public class Presentation {
         } catch (NumberFormatException | IOException e){
             while (!temp.matches("[1-2]")){
                 System.out.print("Veuillez tapez que 1 ou 2 : ");
-                temp = br.readLine();
+                saisie(metier);
             }
-
         }
     }
 
